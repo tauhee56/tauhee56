@@ -2,9 +2,37 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Python projects.
-- 📫 How to reach me tauheedjunior@gmail.com
 
-<!---
-tauhee56/tauhee56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 About Me
+- 🔭 I’m currently working on: AI-powered Photo Editing App
+- 🌱 Learning: Django, REST APIs, and AI Integration
+- 💼 Open to: Collaborations on Open-Source Projects
+- 🎯 Future Goal: Contribute to AI & Cloud Development
+
+---
+
+## 🏆 Key Achievements
+- ✅ Built a React Native Chess App with Firebase integration.
+- ✅ Developed a Shopify Storefront for a client with seamless API integrations.
+
+---
+
+## 🛠️ Technical Skills
+- Frontend: HTML, CSS, JavaScript, React Native
+- Backend: Node.js, Express.js, Django (learning)
+- Databases: PostgreSQL, Firebase
+- Tools: Git, Strapi
+
+---
+
+
+## 📫 Connect with Me
+- 📧 Email: tauheedjunior@example.com
+- 🌟 GitHub: [tauhee56](https://github.com/tauhee56)
+
+---
+
+> 🔥 *"Every line of code brings you closer to your dreams!"*
+
