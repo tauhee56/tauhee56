@@ -29,7 +29,7 @@
 
 
 ## 📫 Connect with Me
-- 📧 Email: tauheedjunior@example.com
+- 📧 Email: tauheedjunior@gmail.com
 - 🌟 GitHub: [tauhee56](https://github.com/tauhee56)
 
 ---
