@@ -92,8 +92,9 @@ console.log("Welcome to my digital universe! 🌟");
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,php,graphql,prisma,supabase&theme=dark" />
 
 ### 📱 **Mobile Development**
-<img src="https://skillicons.dev/icons?i=reactnative,expo,ionic,cordova&theme=dark" />
-
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  
 ### 🗄️ **Database & Storage**
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,sqlite&theme=dark" />
 
@@ -101,7 +102,6 @@ console.log("Welcome to my digital universe! 🌟");
 <img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify,nginx&theme=dark" />
 
 ### 🤖 **AI & Machine Learning**
-<img src="https://skillicons.dev/icons?i=opencv,python&theme=dark" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 
@@ -346,9 +346,9 @@ console.log("Welcome to my digital universe! 🌟");
 
 ## 📫 Connect with Me
 
-- 🌐 **Portfolio:** [tauheedahmadportfolio.netlify.app]
+- 🌐 **Portfolio:** [My Portfolio](https://tauheedahmadportfolio.netlify.app)
 - 📸 **Instagram:** [@tauheed.codes](https://instagram.com/tauheed.codes)
-- 📧 **Email:** tauheeddev@gmail.com
+- 📧 **Email:** tauheedjunior@gmail.com
 
 ---
 
