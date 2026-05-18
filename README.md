@@ -30,7 +30,7 @@
 const tauheedAhmad = {
     name: "Tauheed Ahmad",
     title: "Senior Full Stack Developer",
-    experience: "5+ years",
+    experience: "1.5 + years",
     location: "Pakistan 🇵🇰",
     availability: "Available Worldwide 🌍",
 
