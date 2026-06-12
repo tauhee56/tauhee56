@@ -1,305 +1,97 @@
 <div align="center">
+  <h1>Tauheed Ahmad</h1>
+  <p>Mobile Application Developer · Full Stack Engineer · Cloud & AI</p>
 
-# Tauheed Ahmad
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tauhee56)
 
-### Mobile Application Developer • Full Stack Engineer • Cloud & AI Enthusiast
-
-<p>
-Building scalable mobile applications, backend systems, cloud-native infrastructure, and AI-powered products.
-</p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=React+Native+Engineer;Full+Stack+Developer;Cloud+%26+DevOps+Engineer;AI+Application+Builder;Building+Products+For+Global+Clients" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=React+Native+Engineer;Full+Stack+Developer;Cloud+%26+DevOps+Engineer;AI+Application+Builder" />
 </div>
 
 ---
 
-# Executive Summary
+## About
 
-I am a software engineer focused on building high-performance mobile applications, scalable backend systems, and cloud-native solutions.
+Software engineer building production-grade mobile apps, backend systems, and cloud-native infrastructure. I care about performance, clean architecture, and shipping things that actually work.
 
-Over the years I have worked across mobile development, backend engineering, DevOps practices, cloud infrastructure, and AI integrations.
-
-My primary focus is delivering production-ready applications that provide real business value while maintaining performance, scalability, and maintainability.
-
-Current interests include:
-
-• Mobile Architecture
-• Cloud Computing
-• Kubernetes
-• AI Integration
-• Distributed Systems
-• Product Engineering
+Currently focused on **React Native**, **cloud deployments on Azure**, and **AI-powered product integrations**.
 
 ---
 
-# Engineering Profile
+## Tech Stack
 
 ```yaml
-Name: Tauheed Ahmad
-
-Role: Mobile Application Developer
-
-Specialization:
-  - React Native Development
-  - Full Stack Engineering
-  - API Development
-  - Cloud Infrastructure
-  - DevOps Automation
-
-Languages:
-  - JavaScript
-  - Python
-  - Java
-
-Frameworks:
-  - React Native
-  - React
-  - Next.js
-  - Django
-  - Express.js
-
-Cloud:
-  - Azure
-  - Docker
-  - Kubernetes
-
-Databases:
-  - PostgreSQL
-  - Supabase
-  - Firebase
-  - MongoDB
-
-Status:
-  - Open to Remote Opportunities
+Mobile:    React Native · Expo · Android
+Backend:   Node.js · Express · Django · REST APIs
+Cloud:     Azure · Docker · Kubernetes · AKS · CI/CD
+Databases: PostgreSQL · Firebase · Supabase · MongoDB
+AI:        OpenAI APIs · Hugging Face · Cloudinary
+Languages: JavaScript · Python · Java
 ```
 
 ---
 
-# Core Competencies
+## Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+### Jigara AI — AI-Powered Mobile App
+AI image generation and enhancement platform with full cloud pipeline.
 
-### Mobile Engineering
+`React Native` `Strapi` `PostgreSQL` `Cloudinary` `Hugging Face`
 
-- React Native
-- Expo
-- Android
-- State Management
-- Push Notifications
-- Performance Optimization
-
-</td>
-
-<td width="50%">
-
-### Backend Engineering
-
-- Node.js
-- Express.js
-- Django
-- REST APIs
-- Authentication
-- Database Design
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-
-### Cloud & DevOps
-
-- Azure
-- Docker
-- Kubernetes
-- AKS
-- CI/CD
-- GitHub Actions
-
-</td>
-
-<td width="50%">
-
-### AI & Integrations
-
-- Hugging Face
-- OpenAI APIs
-- Cloudinary
-- Stripe
-- Payment Systems
-- AI Workflows
-
-</td>
-</tr>
-</table>
+> React Native → REST API → Strapi CMS → PostgreSQL → Cloudinary → HF Models
 
 ---
 
-# Featured Engineering Projects
+### University Social Hub — Campus Social Network
+Real-time social platform built for university students.
 
-## Jigara AI
+`React Native` `Firebase` `Expo`
 
-Production-grade AI-powered mobile application.
-
-### Highlights
-
-- AI Image Generation
-- AI Enhancement Pipeline
-- Cloudinary Storage
-- Strapi Backend
-- Authentication System
-- Cross-platform Support
-
-### Architecture
-
-React Native
-→ API Layer
-→ Strapi CMS
-→ PostgreSQL
-→ Cloudinary
-→ Hugging Face Models
+Features: Live messaging · News feed · Event management · Student communities
 
 ---
 
-## University Social Hub
+### Enterprise Inventory Management
+Stock and inventory tracking system with reporting and analytics.
 
-Social networking platform designed for university students.
-
-### Features
-
-- Realtime Messaging
-- News Feed
-- Event Management
-- Notifications
-- Student Communities
-- User Profiles
-
-### Technologies
-
-React Native
-Firebase
-Expo
+`React Native` `Dashboard Analytics` `Search & Filtering`
 
 ---
 
-## Enterprise Inventory Management
+## Experience
 
-Inventory and stock management solution.
+**DevOps Intern — Systems Limited**
 
-### Features
-
-- Product Tracking
-- Reporting
-- Dashboard Analytics
-- Search Engine
-- Inventory Lifecycle
+Worked with Azure infrastructure, load balancers, application gateway, Docker, Kubernetes (AKS), and cloud networking.
 
 ---
 
-# Professional Experience
-
-## DevOps Intern
-
-Systems Limited
-
-Worked on:
-
-- Azure Infrastructure
-- Load Balancers
-- Application Gateway
-- Docker
-- Kubernetes
-- AKS
-- Cloud Networking
-
----
-
-# GitHub Metrics
+## GitHub Stats
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tauhee56&theme=github_dark" width="100%">
-
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tauhee56&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauhee56&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tauhee56&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauhee56&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tauhee56&theme=github-dark-blue&hide_border=true"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tauhee56&theme=github-dark-blue&hide_border=true" />
 </div>
 
 ---
 
-# Technical Roadmap 2026
+## 2026 Roadmap
 
-### Mobile
-
-- Advanced React Native
-- Native Modules
-- Performance Optimization
-
-### Backend
-
-- Scalable APIs
-- Authentication Systems
-- Microservices
-
-### Cloud
-
-- Azure
-- Kubernetes
-- AKS
-- Infrastructure as Code
-
-### AI
-
-- AI Agents
-- Computer Vision
-- Generative AI
-
----
-
-# Open Source
-
-I believe in continuous learning and contributing to the developer ecosystem through open-source projects, reusable components, technical experimentation, and knowledge sharing.
-
----
-
-# Contact
-
-### Professional Links
-
-LinkedIn:
-YOUR_LINKEDIN
-
-Portfolio:
-YOUR_PORTFOLIO
-
-Email:
-YOUR_EMAIL
-
-GitHub:
-https://github.com/tauhee56
+| Area | Goals |
+|------|-------|
+| Mobile | Native modules, advanced performance optimization |
+| Backend | Microservices, scalable auth systems |
+| Cloud | Azure AKS, Infrastructure as Code |
+| AI | AI agents, computer vision, generative AI |
 
 ---
 
 <div align="center">
-
-### "Building Software That Solves Real Problems"
-
-Software Engineering • Cloud Computing • Mobile Development • AI
-
+  <i>Open to remote opportunities · Building software that solves real problems</i>
 </div>
