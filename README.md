@@ -1,361 +1,143 @@
-
 <div align="center">
-
-<!-- Animated Header with Typing Effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Tauheed+Ahmad;Full+Stack+Developer+%F0%9F%92%BB;React+Native+%26+MERN+Specialist+%F0%9F%9A%80;AI+%26+Cloud+Enthusiast+%F0%9F%A4%96;5%2B+Years+of+Experience+%E2%9C%A8" alt="Typing SVG" />
-
-<!-- Animated Wave -->
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Hi+👋%2C+I'm+Tauheed+Ahmad;React+Native+%26+Full+Stack+Developer+💻;AI+%26+Cloud+Enthusiast+☁️;Building+Apps+That+Matter+🚀)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+![Profile Views](https://komarev.com/ghpvc/?username=tauhee56&label=Profile%20Views&color=00d9ff&style=for-the-badge&logo=github)
+![GitHub Followers](https://img.shields.io/github/followers/tauhee56?label=Followers&style=for-the-badge&color=00d9ff&logo=github)
+![Open for Work](https://img.shields.io/badge/Status-Open%20for%20Freelance-4CAF50?style=for-the-badge&logo=upwork&logoColor=white)
 </div>
-
-<!-- Profile Views Counter with Animation -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tauhee56&label=Profile%20Views&color=00d9ff&style=for-the-badge&logo=github" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/tauhee56?label=Followers&style=for-the-badge&color=00d9ff&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00d9ff?style=for-the-badge" alt="Focus" />
-</p>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- About Me Section with Enhanced Animation -->
-<div align="center">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"> **About Me**
-
-</div>
-
+---
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px"> About Me
 ```javascript
 const tauheedAhmad = {
-    name: "Tauheed Ahmad",
-    title: "Senior Full Stack Developer",
-    experience: "1.5 + years",
-    location: "Pakistan 🇵🇰",
-    availability: "Available Worldwide 🌍",
+    name        : "Tauheed Ahmad",
+    title       : "React Native & Full Stack Developer",
+    experience  : "1.5 - 2 years",
+    location    : "Lodhran, Pakistan 🇵🇰",
+    availability: "Open for Remote & Freelance Work 🌍",
+    education   : "BS Information Technology — BZU (CGPA: 3.52)",
 
     expertise: {
-        frontend: ["React.js", "React Native", "Next.js", "Vue.js", "TypeScript"],
-        backend: ["Node.js", "Express.js", "Django", "FastAPI"],
-        databases: ["MongoDB", "PostgreSQL", "Firebase",  "MySQL"],
-        cloud: ["AWS", "Google Cloud", "Vercel", "Netlify", "Docker"],
-        mobile: ["React Native", "Expo", "Flutter"],
-        ai_ml: ["OpenAI API", "HuggingFace"]
+        mobile   : ["React Native", "Expo", "Android (Java)"],
+        frontend : ["React.js", "Next.js", "HTML5", "CSS3", "JavaScript"],
+        backend  : ["Node.js", "Express.js", "Django", "REST APIs"],
+        databases: ["MongoDB", "PostgreSQL", "Firebase Firestore", "Supabase"],
+        cloud    : ["Azure AKS", "Docker", "Kubernetes", "GitHub Actions"],
+        tools    : ["Strapi CMS", "Cloudinary", "Stripe", "Shopify", "Git"],
     },
 
-    currentFocus: [
-        "🤖 AI Integration & Automation",
-        "☁️ Cloud Architecture & DevOps",
-        "📱 Cross-Platform Mobile Development",
-        "🚀 Performance Optimization",
-        "🎨 Advanced UI/UX Implementation"
+    currentlyWorking: [
+        "📱 Circle Proof — UK Client (React Native)",
+        "✈️  Trips — Travel App (React Native)",
+        "📚 EduFlex — France Client (React Native)",
     ],
 
-    philosophy: "Code is poetry, and every line should tell a story.",
+    alsoTeaching : "Frontend Web Development to Students 👨‍🏫",
 
-    workingOn: "Building the future, one commit at a time ⚡",
-
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+    funFact: "I turn chai ☕ into clean code at 2AM — no regrets! 😄",
 };
-
-console.log("Welcome to my digital universe! 🌟");
 ```
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+🎯 Quick Facts
 <div align="center">
-
-### 🎯 **Professional Highlights**
-
-🎓 **BS in Information Technology** – BZU Sub Campus Lodhran, Multan
-👨‍🏫 **Senior Instructor** – Advanced Frontend & Full Stack Development
-💼 **Freelance Expert** – MERN Stack, AI Integration, Mobile Apps
-🏆 **5+ Years** – Delivering exceptional digital solutions
-🌟 **50+ Projects** – From startups to enterprise applications
-
+🎓 Education	💼 Experience	🌍 Freelance	👨‍🏫 Teaching
+BS Information Technology	1.5 - 2 Years	Upwork & Fiverr	Frontend Dev Instructor
+BZU — CGPA 3.52	Mobile + Full Stack	UK & France Clients	Teaching Students Actively
+DevOps Intern @ Systems Limited	React Native Specialist	Circle Proof, EduFlex	Practical Curriculum
 </div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+🛠️ Tech Stack
+📱 Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Android](https://img.shields.io/badge/Android%20%28Java%29-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+🚀 Frontend
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+⚡ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+🗄️ Databases & Storage
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
+☁️ Cloud & DevOps
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+🤖 AI & Other Tools
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+🚀 My GitHub Projects
 <div align="center">
+🧠 Jigara AI	🏫 University Social Hub
+![AI](https://img.shields.io/badge/Final%20Year%20Project-FF6B6B?style=for-the-badge) ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)	![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+🤖 AI Image Generation — HuggingFace	💬 Real-time Chat & Messaging
+🎨 Cloudinary Media Storage	📅 Events & Study Groups
+📦 Strapi CMS Backend	🔔 Push Notifications
+📱 Cross-platform Mobile App	👥 Campus Community Feed
+![Code](https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white)	![Code](https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white)
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"> **Tech Arsenal & Weapons of Choice**
+📦 Inventory & Stock Management	🐍 Python Projects
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)	![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+📊 Full Inventory Tracking System	🔤 OOP & Python Basics
+🛒 Stock Add / Remove / Update	📁 Multiple Mini Projects
+📋 Clean UI Dashboard	🧠 Python Learning Journey
+🔍 Search & Filter Functionality	💡 Beginner to Intermediate
+![Code](https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white)	![Code](https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white)
 
+🌐 JigaraCoders Website	🤗 HuggingFace Transformers
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)	![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI%20%2F%20ML-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+💳 Payment Gateway Integration	🤗 Forked from HuggingFace
+🎨 Modern UI/UX Design	🔬 AI/ML Exploration
+⚡ Server-Side Rendering	🧪 Transformers & Models
+🔐 Secure Authentication	📚 Used in Jigara AI Project
+![Code](https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white)	![Code](https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white)
 </div>
-
-<!-- Animated Tech Stack Icons -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+📊 GitHub Analytics
 <div align="center">
-
-### 🚀 **Frontend Mastery**
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,html,css,tailwind,sass,bootstrap,materialui,figma&theme=dark" />
-
-### ⚡ **Backend Powerhouse**
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,php,graphql,prisma,supabase&theme=dark" />
-
-### 📱 **Mobile Development**
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  
-### 🗄️ **Database & Storage**
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,sqlite&theme=dark" />
-
-### ☁️ **Cloud & DevOps**
-<img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify,nginx&theme=dark" />
-
-### 🤖 **AI & Machine Learning**
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-
-### 🛠️ **Development Tools**
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,webpack,vite,babel&theme=dark" />
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tauhee56&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&custom_title=Tauheed's+GitHub+Stats)	![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tauhee56&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tauhee56&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&custom_title=Most+Used+Languages)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tauhee56&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true)
+🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tauhee56&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
 </div>
-
-<!-- Animated Programming Languages Chart -->
-<div align="center">
-
-### 📊 **Programming Languages Proficiency**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauhee56&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> **Featured Projects & Masterpieces**
-
-</div>
-
-<!-- Project Cards with Enhanced Styling -->
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 **Jigara AI**
-<img src="https://img.shields.io/badge/AI%20Powered-FF6B6B?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
-<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-
-**Revolutionary AI-Powered Image Enhancement Platform**
-- 🤖 Advanced HuggingFace AI Integration
-- 🎨 Real-time Image Processing
-- ☁️ Cloud-based Storage & Sync
-- 📱 Cross-platform Mobile Experience
-
-`"Transforming creativity with AI magic ✨"`
-
-[![GitHub](https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tauhee56/jigara-ai)
-[![Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=youtube&logoColor=white)](#)
-
-</td>
-<td width="50%">
-
-### 📱 **University Social Hub**
-<img src="https://img.shields.io/badge/Social%20Platform-4267B2?style=for-the-badge&logo=facebook&logoColor=white" />
-<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-
-**Next-Gen Student Connection Platform**
-- 💬 Real-time Messaging System
-- 📅 Smart Event Management
-- 🔔 Push Notifications
-- 👥 Community Building Features
-
-`"Connecting minds, building futures 🎓"`
-
-[![GitHub](https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tauhee56/university-social-hub)
-[![Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=youtube&logoColor=white)](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📚 **Language Learning App**
-<img src="https://img.shields.io/badge/Education-4CAF50?style=for-the-badge&logo=education&logoColor=white" />
-<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-
-**Interactive Language Learning Platform**
-- 🗣️ Multi-language Support
-- 🎯 Interactive Learning Modules
-- 📊 Progress Tracking System
-- 🎮 Gamified Learning Experience
-
-`"Master languages through interactive learning 🌍"`
-
-[![GitHub](https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tauhee56/language-learning-app)
-[![Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=youtube&logoColor=white)](#)
-
-</td>
-<td width="50%">  
-
-### 🍳 **Recipe Discovery App**
-<img src="https://img.shields.io/badge/Food%20%26%20Recipe-FF9800?style=for-the-badge&logo=food&logoColor=white" />
-<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />  
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-
-**Smart Recipe Discovery & Cooking Platform**
-- 🔍 Advanced Recipe Search
-- 📱 Intuitive Mobile Interface
-- 🥘 Cuisine Categories & Filters
-- ⭐ Rating & Review System
-
-`"Discover culinary adventures at your fingertips 👨‍🍳"`
-
-[![GitHub](https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tauhee56/recipe-app)
-[![Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=youtube&logoColor=white)](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌐 **Jigara Coders Organization**
-<img src="https://img.shields.io/badge/Organization-9C27B0?style=for-the-badge&logo=organization&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />  
-<img src="https://img.shields.io/badge/Payment%20Gateway-00C853?style=for-the-badge&logo=stripe&logoColor=white" />
-
-**Professional Development Organization Platform**
-- 💳 Integrated Payment Systems
-- 🎨 Modern UI/UX Design
-- ⚡ Server-Side Rendering
-- 🔐 Secure Authentication
-
-`"Empowering developers worldwide 💻"`
-
-[![GitHub](https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tauhee56/jigaracoders-website)
-
-</td>
-<td width="50%">  
-
-
-
-
-### 🚀 **Portfolio Showcase**
-<img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=portfolio&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-
-**Interactive 3D Portfolio Experience**
-- 🎨 3D Animations & Interactions
-- � Fully Responsive Design
-- ⚡ Optimized Performance
-- 🎯 Modern UI/UX Principles
-
-`"Where creativity meets technology 🎨"`
-
-[![Live Demo](https://img.shields.io/badge/Visit%20Portfolio-00D9FF?style=for-the-badge&logo=netlify&logoColor=white)](https://tauheedahmadportfolio.netlify.app)
-[![GitHub](https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white)](#)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- Project Stats -->
-<div align="center">
-
-### 📈 **Project Impact & Metrics**
-
-<img src="https://img.shields.io/badge/Total%20Projects-50%2B-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Client%20Satisfaction-100%25-4CAF50?style=for-the-badge&logo=star&logoColor=white" />
-<img src="https://img.shields.io/badge/Code%20Quality-A%2B-FF6B6B?style=for-the-badge&logo=codeclimate&logoColor=white" />
-<img src="https://img.shields.io/badge/Response%20Time-24hrs-FFC107?style=for-the-badge&logo=clock&logoColor=black" />
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"> **GitHub Analytics & Performance Metrics**
-
-</div>
-
-<!-- Advanced GitHub Stats Grid -->
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tauhee56&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&custom_title=Tauheed's%20GitHub%20Stats" alt="GitHub Stats" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tauhee56&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
-
-</td>
-</tr>
-</table>
-
-<!-- Language Stats -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauhee56&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=12&custom_title=Most%20Used%20Languages" alt="Top Languages" />
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tauhee56&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" alt="GitHub Activity Graph" />
-
-<!-- Contribution Stats -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tauhee56&theme=radical" alt="GitHub Profile Summary" />
-
-</div>
-
-<!-- GitHub Trophies -->
-<div align="center">
-
-### 🏆 **GitHub Achievements & Trophies**
-
-<img src="https://github-profile-trophy.vercel.app/?username=tauhee56&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-
-</div>
-
-<!-- Coding Activity -->
-<div align="center">
-
-### ⚡ **Coding Activity & Insights**
-
-<!--START_SECTION:waka-->
-<img src="https://wakatime.com/badge/user/your-wakatime-id.svg" alt="Total time coded since account creation" />
-<!--END_SECTION:waka-->
-
-<img src="https://img.shields.io/badge/Code%20Time-2000%2B%20hrs-00D9FF?style=for-the-badge&logo=wakatime&logoColor=white" />
-<img src="https://img.shields.io/badge/Daily%20Average-8%20hrs-FF6B6B?style=for-the-badge&logo=clock&logoColor=white" />
-<img src="https://img.shields.io/badge/Favorite%20Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Commits%20This%20Year-500%2B-4CAF50?style=for-the-badge&logo=git&logoColor=white" />
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📚 Latest Blog Posts
-
-- [🔥 How I Built Jigara AI Using React Native + HuggingFace](#)
-- [🚀 Strapi + Clerk + NeonDB + Next.js Setup Guide](#)
-- [💡 Freelancer Tools I Can’t Live Without](#)
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+🌱 Currently Learning
+```
+☁️  Azure Cloud — AKS, Load Balancer, Application Gateway
+🐳  Docker & Kubernetes in Production
+🤖  AI-Powered Mobile App Development
+📡  Advanced REST API & Backend with Django
+📱  Capacitor — Web to Native iOS/Android
+⚡  React Native Performance & Animations
+```
 ---
-
-## 📫 Connect with Me
-
-- 🌐 **Portfolio:** [My Portfolio](https://tauheedahmadportfolio.netlify.app)
-- 📸 **Instagram:** [@tauheed.codes](https://instagram.com/tauheed.codes)
-- 📧 **Email:** tauheedjunior@gmail.com
-
+📬 Connect With Me
+<div align="center">
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=netlify&logoColor=white)
+![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)
+![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+</div>
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="350" />
-</p>
-
-<h3 align="center">Turning Coffee ☕ into Code Since 2020</h3>
-
-<p align="center">✨ Let's build something amazing together! ✨</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="350">
+☕ Turning Chai into Code Since 2023
+✨ Always building. Always learning. Let's create something amazing together! ✨
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg">
+</div>
