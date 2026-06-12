@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:58A6FF&height=200&section=header&text=Tauheed%20Ahmad&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Mobile%20Application%20Developer%20%E2%80%A2%20Full%20Stack%20Engineer%20%E2%80%A2%20Cloud%20%26%20AI&descAlignY=58&descSize=16&descColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1a1f2e,100:58A6FF&amp;height=200&amp;section=header&amp;text=Tauheed%20Ahmad&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Mobile%20Application%20Developer%20%E2%80%A2%20Full%20Stack%20Engineer%20%E2%80%A2%20Cloud%20%26%20AI&amp;descAlignY=58&amp;descSize=16&amp;descColor=8b949e" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tauheed-ahmad-sukhera-b00719399)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tauheedahmadportfolio.netlify.app)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tauheedjunior@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tauhee56)
-[![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/pk/app/trips-discover-the-planet/id6760894554)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/tauheed-ahmad-sukhera-b00719399)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white)](https://tauheedahmadportfolio.netlify.app)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:tauheedjunior@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/tauhee56)
+[![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&amp;logo=app-store&amp;logoColor=white)](https://apps.apple.com/pk/app/trips-discover-the-planet/id6760894554)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=React+Native+Engineer;Full+Stack+Developer;Cloud+%26+DevOps+Engineer;AI+Application+Builder;Building+For+Global+Clients+%F0%9F%8C%8D" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=React+Native+Engineer;Full+Stack+Developer;Cloud+%26+DevOps+Engineer;AI+Application+Builder;Building+For+Global+Clients+%F0%9F%8C%8D" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=tauhee56&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=tauhee56&amp;color=58A6FF&amp;style=for-the-badge&amp;label=PROFILE+VIEWS)
 
 </div>
 
@@ -30,7 +30,7 @@ I'm a software engineer specializing in **React Native mobile development**, **f
 
 Several of my most significant projects are **private by client request**, involving large-scale commercial applications across different domains. My public work represents only a portion of what I ship.
 
-- 🌍 Working with clients across **USA, France & Pakistan**
+- 🌍 Working with clients across **USA, France &amp; Pakistan**
 - 📱 Apps live on the **Apple App Store** — shipped solo
 - 🔒 Multiple **large-scale private repos** built for international clients
 - ☁️ Experienced in **Azure cloud infrastructure** and container orchestration
@@ -43,37 +43,37 @@ Several of my most significant projects are **private by client request**, invol
 
 <div align="center">
 
-### Mobile & Frontend
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+### Mobile &amp; Frontend
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&amp;logo=expo&amp;logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=next.js&amp;logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&amp;logo=android&amp;logoColor=white)
 
-### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Backend &amp; APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black)
 
-### Cloud & DevOps
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### Cloud &amp; DevOps
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&amp;logo=microsoft-azure&amp;logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=github-actions&amp;logoColor=white)
 
-### Databases & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+### Databases &amp; Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&amp;logo=firebase&amp;logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white)
 
-### AI & Integrations
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+### AI &amp; Integrations
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&amp;logo=cloudinary&amp;logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&amp;logo=stripe&amp;logoColor=white)
 
 </div>
 
@@ -84,7 +84,7 @@ Several of my most significant projects are **private by client request**, invol
 ### 📱 Trips — Discover the Planet
 > **Live on Apple App Store** · *Sole Developer*
 
-[![App Store](https://img.shields.io/badge/Download_on_App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/pk/app/trips-discover-the-planet/id6760894554)
+[![App Store](https://img.shields.io/badge/Download_on_App_Store-0D96F6?style=for-the-badge&amp;logo=app-store&amp;logoColor=white)](https://apps.apple.com/pk/app/trips-discover-the-planet/id6760894554)
 
 A full-featured **travel discovery application** built end-to-end and shipped to the App Store independently. Every line of code, every design decision, every deployment — done solo.
 
@@ -92,12 +92,12 @@ A full-featured **travel discovery application** built end-to-end and shipped to
 Role        → Sole Developer (Design · Development · Deployment)
 Platform    → iOS (Apple App Store — Live)
 Stack       → React Native · Expo · Backend APIs · App Store Connect
-Status      → ✅ Live & Available for Download
+Status      → ✅ Live &amp; Available for Download
 ```
 
 ---
 
-### 🔒 Client Projects — USA & France *(Private Repos)*
+### 🔒 Client Projects — USA &amp; France *(Private Repos)*
 > **International commercial work** · *Confidential by client agreement*
 
 Working directly with clients from the **United States** and **France** on large-scale mobile and full-stack applications. These repositories are private per client confidentiality requirements — representing some of the most substantial engineering work in my portfolio.
@@ -136,7 +136,7 @@ Features    → Live Messaging · News Feed · Event Management · Student Commu
 > Stock and inventory tracking system for businesses
 
 ```
-Features    → Product Tracking · Dashboard Analytics · Reporting · Search & Lifecycle Mgmt
+Features    → Product Tracking · Dashboard Analytics · Reporting · Search &amp; Lifecycle Mgmt
 ```
 
 ---
@@ -157,16 +157,16 @@ Features    → Product Tracking · Dashboard Analytics · Reporting · Search &
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tauhee56&theme=github_dark" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tauhee56&amp;theme=github_dark" width="100%" />
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tauhee56&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauhee56&layout=compact&theme=github_dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tauhee56&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauhee56&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tauhee56&theme=github-dark-blue&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tauhee56&amp;theme=github-dark-blue&amp;hide_border=true" />
 
 </div>
 
@@ -199,4 +199,4 @@ AI         →  AI Agents · Computer Vision · Generative AI pipelines
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1a1f2e,100:0d1117&height=120&section=footer&text=Open%20to%20Remote%20Opportunities&fontSize=18&fontColor=8b949e&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:58A6FF,50:1a1f2e,100:0d1117&amp;height=120&amp;section=footer&amp;text=Open%20to%20Remote%20Opportunities&amp;fontSize=18&amp;fontColor=8b949e&amp;fontAlignY=65" />
