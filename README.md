@@ -1,329 +1,207 @@
 <div align="center">
 
-# ⚡ TAUHEED AHMAD ⚡
-### Mobile Architect · Full Stack Engineer · Cloud & AI Systems
+# Tauheed Ahmad
 
----
+### Mobile Application Developer · Full Stack Engineer · Cloud & AI
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=BUILDING+SCALABLE+SYSTEMS;MOBILE+ARCHITECTURE+%7C+CLOUD+%7C+AI;PRODUCTION+GRADE+ENGINEERING;GLOBAL+CLIENT+DELIVERY" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tauheed-ahmad-sukhera-b00719399)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tauheedahmadportfolio.netlify.app)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tauheedjunior@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tauhee56)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/pk/app/trips-discover-the-planet/id6760894554)
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=React+Native+Engineer;Full+Stack+Developer;Cloud+%26+DevOps+Engineer;AI+Application+Builder;Building+For+Global+Clients" alt="Typing SVG" />
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F5FF&height=180)
+![Profile Views](https://komarev.com/ghpvc/?username=tauhee56&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## ═════════════════════════════
-## 🧠 SYSTEM PROFILE
-## ═════════════════════════════
+## 👨‍💻 About Me
 
-NAME: Tauheed Ahmad  
-ROLE: Software Engineer  
-FOCUS: Mobile + Cloud + AI Systems  
-STATUS: ACTIVE DEVELOPMENT MODE  
-LOCATION: Pakistan 🇵🇰  
-MISSION: Build scalable global systems  
+> *Building production-grade mobile apps and scalable systems for clients across **USA 🇺🇸**, **France 🇫🇷**, and **Pakistan 🇵🇰**.*
 
----
+I'm a software engineer specializing in **React Native mobile development**, **full-stack engineering**, and **cloud-native infrastructure**. I deliver end-to-end products — from architecture to App Store deployment — for international and local clients.
 
-## ═════════════════════════════
-## ⚡ CORE IDENTITY
-## ═════════════════════════════
+Several of my most significant projects are **private by client request**, involving large-scale commercial applications across different domains. My public work represents only a portion of what I ship.
 
-- Engineer of scalable systems  
-- Mobile app architect  
-- Cloud infrastructure builder  
-- AI integration specialist  
-- Full stack problem solver  
-- Production deployment focused  
+- 🌍 Working with clients across **USA, France & Pakistan**
+- 📱 Apps live on the **Apple App Store** — shipped solo
+- 🔒 Multiple **large-scale private repos** built for international clients
+- ☁️ Experienced in **Azure cloud infrastructure** and container orchestration
+- 🤖 Integrating **AI models and APIs** into production mobile products
+- 🎯 Focused on **performance, scalability, and real business value**
 
 ---
 
-## ═════════════════════════════
-## 🌍 GLOBAL EXPERIENCE
-## ═════════════════════════════
+## 🛠️ Tech Stack
 
-- USA Client Projects  
-- France Client Projects  
-- Pakistan Local Systems  
-- Private Enterprise Applications  
-- NDA Protected Systems  
+<div align="center">
 
----
+**Mobile & Frontend**
 
-## ═════════════════════════════
-## 📱 MOBILE DEVELOPMENT
-## ═════════════════════════════
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-React Native → ██████████  
-Expo         → █████████  
-Android      → █████████  
-iOS          → ████████  
+**Backend & Languages**
 
----
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 📱 MOBILE PRINCIPLES
-- Performance optimization  
-- Smooth UI/UX  
-- Native integration  
-- API driven architecture  
-- Scalable state management  
+**Cloud & DevOps**
 
----
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-## ═════════════════════════════
-## 🔥 FRONTEND STACK
-## ═════════════════════════════
+**Databases & Storage**
 
-React        → ██████████  
-Next.js      → █████████  
-JavaScript   → █████████  
-TypeScript   → ████████  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
----
+**AI & Integrations**
 
-## ═════════════════════════════
-## ⚙️ BACKEND STACK
-## ═════════════════════════════
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 
-Node.js      → ██████████  
-Express      → █████████  
-Django       → ████████  
-REST APIs    → █████████  
+</div>
 
 ---
 
-## ═════════════════════════════
-## ☁️ CLOUD & DEVOPS
-## ═════════════════════════════
+## 🚀 Featured Projects
 
-Azure        → ██████████  
-Docker       → █████████  
-Kubernetes   → ████████  
-CI/CD        → █████████  
+### 📱 Trips — Discover the Planet
+> **Live on Apple App Store** · *Sole Developer*
 
----
+[![App Store](https://img.shields.io/badge/Download_on_App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/pk/app/trips-discover-the-planet/id6760894554)
 
-## ═════════════════════════════
-## 🧠 AI & INTEGRATION
-## ═════════════════════════════
+A full-featured **travel discovery application** built end-to-end and shipped to the App Store independently. Every line of code, every design decision, every deployment — done solo.
 
-OpenAI        → ██████████  
-HuggingFace   → █████████  
-Cloudinary    → █████████  
-AI Pipelines  → █████████  
+```
+Role     →  Sole Developer (Design · Development · Deployment)
+Platform →  iOS (Apple App Store — Live)
+Stack    →  React Native · Expo · Backend APIs · App Store Connect
+Status   →  Live & Available for Download
+```
 
 ---
 
-## ═════════════════════════════
-## 🚀 FEATURED PROJECTS
-## ═════════════════════════════
+### 🔒 Client Projects — USA & France *(Private Repos)*
+> **International commercial work** · *Confidential by client agreement*
 
-### 📱 TRIPS APP
-Role: Sole Developer  
-Stack: React Native + APIs  
-Status: Live on App Store  
+Working directly with clients from the **United States** and **France** on large-scale mobile and full-stack applications. These repositories are private per client confidentiality requirements.
 
----
-
-### 🤖 JIGARA AI
-AI Image Generation Platform  
-Stack: React Native + Strapi + PostgreSQL  
+```
+Clients    →  USA · France · Pakistan
+Scope      →  Large-scale commercial applications
+Visibility →  Private (client confidentiality)
+Engagement →  Direct client collaboration, full ownership
+```
 
 ---
 
-### 🔒 CLIENT SYSTEMS
-USA + France Enterprise Apps  
-Private NDA Projects  
-Full Stack Ownership  
+### 🤖 Jigara AI — AI-Powered Mobile App
+> Production-grade AI image generation and enhancement platform
+
+```
+Stack    →  React Native · Strapi CMS · PostgreSQL · Cloudinary · Hugging Face
+Pipeline →  React Native → REST API → Strapi → PostgreSQL → Cloudinary → HF Models
+Features →  AI Image Generation · Enhancement Pipeline · Auth System · Cross-platform
+```
 
 ---
 
-## ═════════════════════════════
-## 🧩 DEVELOPMENT PHILOSOPHY
-## ═════════════════════════════
+### 🎓 University Social Hub — Campus Social Network
+> Real-time social platform built for university students
 
-- Clean architecture always  
-- Scalable before features  
-- Performance over complexity  
-- Real-world deployment focus  
-- Production ready code  
+```
+Stack    →  React Native · Firebase · Expo
+Features →  Live Messaging · News Feed · Event Management · Student Communities
+```
 
 ---
 
-## ═════════════════════════════
-## 📊 GITHUB METRICS
-## ═════════════════════════════
+### 🏭 Enterprise Inventory Management
+> Stock and inventory tracking system for businesses
 
-- Consistent commits  
-- Production repos  
-- Multi-stack projects  
-- Open source contributions  
+```
+Features →  Product Tracking · Dashboard Analytics · Reporting · Search & Lifecycle Mgmt
+```
 
 ---
 
-## ═════════════════════════════
-## 🧭 2026 ROADMAP
-## ═════════════════════════════
+## 💼 Professional Experience
 
-✔ Mobile mastery  
-✔ Cloud architecture  
-→ Microservices  
-→ AI agents  
-→ SaaS platforms  
-→ Global scaling  
+### DevOps Intern — Systems Limited
+> One of Pakistan's largest IT companies
 
----
-
-## ═════════════════════════════
-## 📡 CONNECT
-## ═════════════════════════════
-
-LinkedIn   → Professional  
-Portfolio  → Live Projects  
-Email      → Direct Contact  
-GitHub     → Code Hub  
+- Enterprise-scale **Azure** cloud infrastructure management
+- Configured **Load Balancers** and **Application Gateway**
+- Container orchestration with **Docker** and **Kubernetes (AKS)**
+- Cloud networking, monitoring, and CI/CD pipeline management
 
 ---
 
-## ═════════════════════════════
-## ⚡ SYSTEM LOGS (EXPANDED SECTION)
-## ═════════════════════════════
+## 📊 GitHub Stats
 
-STATUS: ACTIVE  
-MODE: BUILD  
-TARGET: SCALE  
+<div align="center">
 
-LOG 001: Mobile architecture initialized  
-LOG 002: Cloud systems integrated  
-LOG 003: AI pipelines connected  
-LOG 004: Production deployments active  
-LOG 005: Client systems running  
-LOG 006: Performance optimized  
-LOG 007: Security hardened  
-LOG 008: APIs stabilized  
-LOG 009: UI systems improved  
-LOG 010: Backend scaled  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tauhee56&theme=github_dark" width="100%" />
+
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tauhee56&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauhee56&layout=compact&theme=github_dark&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tauhee56&theme=github-dark-blue&hide_border=true" />
+
+</div>
 
 ---
 
-## ═════════════════════════════
-## ⚡ ENGINEERING BLOCK A
-## ═════════════════════════════
+## 🗺️ 2026 Roadmap
 
-System: Mobile Apps  
-Layer: UI + API  
-Focus: Performance  
-Status: Production  
-
----
-
-## ⚡ ENGINEERING BLOCK B
-System: Backend APIs  
-Layer: Node + Django  
-Focus: Scalability  
-Status: Running  
+```
+Mobile   →  Native modules · Advanced animations · App Store optimization
+Backend  →  Microservices architecture · Scalable auth systems · GraphQL
+Cloud    →  Azure AKS · Terraform · Infrastructure as Code · GitOps
+AI       →  AI Agents · Computer Vision · Generative AI pipelines
+```
 
 ---
 
-## ⚡ ENGINEERING BLOCK C
-System: Cloud Infra  
-Layer: Azure + Docker  
-Focus: Deployment  
-Status: Stable  
+## 📬 Let's Connect
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | [tauheed-ahmad-sukhera](https://linkedin.com/in/tauheed-ahmad-sukhera-b00719399) |
+| 🌐 Portfolio | [tauheedahmadportfolio.netlify.app](https://tauheedahmadportfolio.netlify.app) |
+| 📧 Email | [tauheedjunior@gmail.com](mailto:tauheedjunior@gmail.com) |
+| 📱 App Store | [Trips — Discover the Planet](https://apps.apple.com/pk/app/trips-discover-the-planet/id6760894554) |
+| 💻 GitHub | [tauhee56](https://github.com/tauhee56) |
+
+</div>
 
 ---
 
-## ⚡ ENGINEERING BLOCK D
-System: AI Systems  
-Layer: Models + APIs  
-Focus: Intelligence  
-Status: Active  
+<div align="center">
 
----
+*Building software that solves real problems · Open to remote opportunities*
 
-## ═════════════════════════════
-## 🔁 REPEATED SYSTEM BLOCKS (EXPANSION)
-## ═════════════════════════════
-
-Mobile Systems → ACTIVE  
-Mobile Systems → ACTIVE  
-Mobile Systems → ACTIVE  
-Mobile Systems → ACTIVE  
-Mobile Systems → ACTIVE  
-
-Backend Systems → RUNNING  
-Backend Systems → RUNNING  
-Backend Systems → RUNNING  
-Backend Systems → RUNNING  
-Backend Systems → RUNNING  
-
-Cloud Systems → DEPLOYED  
-Cloud Systems → DEPLOYED  
-Cloud Systems → DEPLOYED  
-Cloud Systems → DEPLOYED  
-Cloud Systems → DEPLOYED  
-
-AI Systems → INTEGRATED  
-AI Systems → INTEGRATED  
-AI Systems → INTEGRATED  
-AI Systems → INTEGRATED  
-AI Systems → INTEGRATED  
-
----
-
-## ═════════════════════════════
-## ⚡ FINAL ENGINE STATUS
-## ═════════════════════════════
-
-SYSTEM READY  
-SYSTEM SCALING  
-SYSTEM ACTIVE  
-SYSTEM DEPLOYED  
-SYSTEM OPTIMIZED  
-
----
-
-## ═════════════════════════════
-## ⚡ END SECTION LOOP (FILLER FOR 500 LINES STYLE)
-## ═════════════════════════════
-
-BUILD MODE ACTIVE  
-BUILD MODE ACTIVE  
-BUILD MODE ACTIVE  
-BUILD MODE ACTIVE  
-BUILD MODE ACTIVE  
-BUILD MODE ACTIVE  
-BUILD MODE ACTIVE  
-BUILD MODE ACTIVE  
-BUILD MODE ACTIVE  
-BUILD MODE ACTIVE  
-
-SHIP MODE ACTIVE  
-SHIP MODE ACTIVE  
-SHIP MODE ACTIVE  
-SHIP MODE ACTIVE  
-SHIP MODE ACTIVE  
-SHIP MODE ACTIVE  
-SHIP MODE ACTIVE  
-SHIP MODE ACTIVE  
-SHIP MODE ACTIVE  
-SHIP MODE ACTIVE  
-
-SCALE MODE ACTIVE  
-SCALE MODE ACTIVE  
-SCALE MODE ACTIVE  
-SCALE MODE ACTIVE  
-SCALE MODE ACTIVE  
-SCALE MODE ACTIVE  
-SCALE MODE ACTIVE  
-SCALE MODE ACTIVE  
-SCALE MODE ACTIVE  
-SCALE MODE ACTIVE  
-
----
-
-## ⚡ FINAL MESSAGE
-BUILD. SHIP. SCALE. REPEAT.
+</div>      
