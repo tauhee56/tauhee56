@@ -1,262 +1,305 @@
 <div align="center">
 
-# 🚀 Tauheed Ahmad
+# Tauheed Ahmad
 
-### Mobile App Developer • React Native Engineer • Full Stack Developer
+### Mobile Application Developer • Full Stack Engineer • Cloud & AI Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=React+Native+Developer;Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;AI+Powered+Application+Builder;Always+Learning+New+Technologies" />
+<p>
+Building scalable mobile applications, backend systems, cloud-native infrastructure, and AI-powered products.
+</p>
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=tauhee56&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=React+Native+Engineer;Full+Stack+Developer;Cloud+%26+DevOps+Engineer;AI+Application+Builder;Building+Products+For+Global+Clients" />
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# Executive Summary
 
-```javascript
-const tauheed = {
-  role: "React Native & Full Stack Developer",
-  location: "Pakistan 🇵🇰",
+I am a software engineer focused on building high-performance mobile applications, scalable backend systems, and cloud-native solutions.
 
-  expertise: [
-    "Mobile Development",
-    "Backend Development",
-    "Cloud Computing",
-    "DevOps",
-    "AI Integration",
-    "Database Design"
-  ],
+Over the years I have worked across mobile development, backend engineering, DevOps practices, cloud infrastructure, and AI integrations.
 
-  currentFocus: [
-    "React Native",
-    "Supabase",
-    "Azure",
-    "Docker",
-    "Kubernetes",
-    "AI Applications"
-  ],
+My primary focus is delivering production-ready applications that provide real business value while maintaining performance, scalability, and maintainability.
 
-  availability: "Open For Remote Opportunities"
-}
+Current interests include:
+
+• Mobile Architecture
+• Cloud Computing
+• Kubernetes
+• AI Integration
+• Distributed Systems
+• Product Engineering
+
+---
+
+# Engineering Profile
+
+```yaml
+Name: Tauheed Ahmad
+
+Role: Mobile Application Developer
+
+Specialization:
+  - React Native Development
+  - Full Stack Engineering
+  - API Development
+  - Cloud Infrastructure
+  - DevOps Automation
+
+Languages:
+  - JavaScript
+  - Python
+  - Java
+
+Frameworks:
+  - React Native
+  - React
+  - Next.js
+  - Django
+  - Express.js
+
+Cloud:
+  - Azure
+  - Docker
+  - Kubernetes
+
+Databases:
+  - PostgreSQL
+  - Supabase
+  - Firebase
+  - MongoDB
+
+Status:
+  - Open to Remote Opportunities
 ```
 
 ---
 
-# ⚡ Tech Stack
+# Core Competencies
 
-## 📱 Mobile Development
+<table>
+<tr>
+<td width="50%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=androidstudio" />
-<img src="https://skillicons.dev/icons?i=java" />
-</p>
+### Mobile Engineering
+
+- React Native
+- Expo
+- Android
+- State Management
+- Push Notifications
+- Performance Optimization
+
+</td>
+
+<td width="50%">
+
+### Backend Engineering
+
+- Node.js
+- Express.js
+- Django
+- REST APIs
+- Authentication
+- Database Design
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+
+### Cloud & DevOps
+
+- Azure
+- Docker
+- Kubernetes
+- AKS
+- CI/CD
+- GitHub Actions
+
+</td>
+
+<td width="50%">
+
+### AI & Integrations
+
+- Hugging Face
+- OpenAI APIs
+- Cloudinary
+- Stripe
+- Payment Systems
+- AI Workflows
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎨 Frontend
+# Featured Engineering Projects
 
-<p>
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=js" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=nextjs" />
-</p>
+## Jigara AI
 
----
+Production-grade AI-powered mobile application.
 
-## ⚙ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=express" />
-<img src="https://skillicons.dev/icons?i=django" />
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
----
-
-## 🗄 Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=firebase" />
-<img src="https://skillicons.dev/icons?i=supabase" />
-<img src="https://skillicons.dev/icons?i=postgres" />
-<img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
----
-
-## ☁️ Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=azure" />
-<img src="https://skillicons.dev/icons?i=docker" />
-<img src="https://skillicons.dev/icons?i=kubernetes" />
-<img src="https://skillicons.dev/icons?i=githubactions" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 Jigara AI
-
-AI Powered Mobile Application
-
-### Features
+### Highlights
 
 - AI Image Generation
-- Image Enhancement
-- Cloudinary Integration
+- AI Enhancement Pipeline
+- Cloudinary Storage
+- Strapi Backend
 - Authentication System
-- Cross Platform Support
+- Cross-platform Support
 
-### Stack
+### Architecture
 
-React Native • Strapi • Cloudinary • Hugging Face
+React Native
+→ API Layer
+→ Strapi CMS
+→ PostgreSQL
+→ Cloudinary
+→ Hugging Face Models
 
 ---
 
-## 🏫 University Social Hub
+## University Social Hub
 
-Campus Community Application
+Social networking platform designed for university students.
 
 ### Features
 
-- Real Time Messaging
-- Study Groups
-- Events Management
-- Push Notifications
+- Realtime Messaging
+- News Feed
+- Event Management
+- Notifications
+- Student Communities
 - User Profiles
 
-### Stack
+### Technologies
 
-React Native • Firebase • Expo
+React Native
+Firebase
+Expo
 
 ---
 
-## 📦 Inventory Management System
+## Enterprise Inventory Management
 
-Business Inventory Solution
+Inventory and stock management solution.
 
 ### Features
 
-- Product Management
-- Stock Tracking
+- Product Tracking
+- Reporting
 - Dashboard Analytics
-- Search & Filtering
-
-### Stack
-
-HTML • CSS • JavaScript
+- Search Engine
+- Inventory Lifecycle
 
 ---
 
-## 🌐 JigaraCoders Platform
+# Professional Experience
 
-Modern Learning Platform
+## DevOps Intern
 
-### Features
+Systems Limited
 
-- Course System
-- Stripe Payments
-- Authentication
-- Dashboard
+Worked on:
 
-### Stack
-
-Next.js • PostgreSQL • Stripe
-
----
-
-# 🏆 Achievements
-
-✅ BS Information Technology
-
-✅ CGPA 3.52
-
-✅ DevOps Intern @ Systems Limited
-
-✅ React Native Applications Delivered
-
-✅ International Client Experience
-
-✅ Frontend Development Instructor
+- Azure Infrastructure
+- Load Balancers
+- Application Gateway
+- Docker
+- Kubernetes
+- AKS
+- Cloud Networking
 
 ---
 
-# 📈 GitHub Analytics
+# GitHub Metrics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tauhee56&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tauhee56&theme=github_dark" width="100%">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauhee56&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tauhee56&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauhee56&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tauhee56&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
 ---
 
-<div align="center">
+# Technical Roadmap 2026
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tauhee56&theme=tokyonight&hide_border=true"/>
+### Mobile
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tauhee56&theme=github_dark" />
-
-</div>
-
----
-
-# 🌱 Currently Learning
-
-- Azure Kubernetes Service (AKS)
-- Docker & Kubernetes
 - Advanced React Native
-- Cloud Architecture
-- AI Powered Applications
-- CI/CD Pipelines
+- Native Modules
+- Performance Optimization
+
+### Backend
+
+- Scalable APIs
+- Authentication Systems
+- Microservices
+
+### Cloud
+
+- Azure
+- Kubernetes
+- AKS
+- Infrastructure as Code
+
+### AI
+
+- AI Agents
+- Computer Vision
+- Generative AI
 
 ---
 
-# 🤝 Let's Connect
+# Open Source
 
-<p align="center">
+I believe in continuous learning and contributing to the developer ecosystem through open-source projects, reusable components, technical experimentation, and knowledge sharing.
 
-<a href="(https://www.linkedin.com/in/tauheed-ahmad-sukhera-b00719399/)">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+---
 
+# Contact
 
+### Professional Links
 
-<a href="mailto:tauheedjunior@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
+LinkedIn:
+YOUR_LINKEDIN
 
-</p>
+Portfolio:
+YOUR_PORTFOLIO
+
+Email:
+YOUR_EMAIL
+
+GitHub:
+https://github.com/tauhee56
 
 ---
 
 <div align="center">
 
-## ⚡ Fun Fact
+### "Building Software That Solves Real Problems"
 
-### "Turning Chai ☕ Into Scalable Applications 🚀"
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"/>
+Software Engineering • Cloud Computing • Mobile Development • AI
 
 </div>
